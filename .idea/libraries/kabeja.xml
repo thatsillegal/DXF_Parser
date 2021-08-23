@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="kabeja">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../All the Libraries/kabeja/kabeja/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../All the Libraries/kabeja/kabeja/lib" recursive="false" />
+  </library>
+</component>

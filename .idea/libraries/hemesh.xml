@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hemesh">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../All the Libraries/hemesh/library" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../All the Libraries/hemesh/library" recursive="false" />
+  </library>
+</component>
